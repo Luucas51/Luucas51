@@ -25,9 +25,13 @@ Currently in the process of becoming a web developer
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luucas51&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <details> 
-    <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+    <summary><b>✨&nbsp;&nbsp;My&nbsp;curriculum</b></summary>
     <br/>
-    Just test
+    
+    Hello, I am currently training at <a src="https://www.thehackingproject.org/">The Hacking Project</a> to become a web developer.
+
+    The first 3 months are very back end oriented with Ruby and Ruby On Rails web framework, we use Bootstrap to produce applications without worrying too much about the front end. The last 3 months are oriented front end and back end with javascript, ReactJS and Redux (And always Ruby). We also learn to respect the conventions of the different languages and to work with the AGIL/SCRUM methodology.
+
 </details> 
 
 
