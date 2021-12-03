@@ -31,13 +31,14 @@ Currently in the process of becoming a web developer
     
 <p>
     Hello, I am currently training to become a web developer at <a src="https://www.thehackingproject.org/">The Hacking Project</a>.
-
+</p>
+<p>
     The first 3 months are very back end oriented with Ruby and Ruby On Rails web framework,
 
     we use Bootstrap to produce applications without worrying too much about the front end. 
 
     The last 3 months are oriented front end and back end with javascript, ReactJS and Redux (And always Ruby). 
-    
+
     We also learn to respect the conventions of the different languages and to work with the AGIL/SCRUM methodology.
 
 </p>
