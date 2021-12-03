@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
 
-# Hello world, im Lucas
+# Hello world, I'm Lucas <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 Currently in the process of becoming a web developer
 
@@ -22,3 +22,9 @@ Currently in the process of becoming a web developer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luucas51&hide=scss&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luucas51&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<details> 
+    <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+    <br/>
+    Just test
+</details> 
