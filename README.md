@@ -14,7 +14,7 @@ Currently in the process of becoming a web developer
 
 ## Follow me
 
-<a href="https://www.linkedin.com/in/lucas-oudart-40400a209/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/lucas-oudart-40400a209/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 ## &#x1f4c8; My stats
 
@@ -31,7 +31,7 @@ Currently in the process of becoming a web developer
     
     
 <p>
-    Hello, I am currently training to become a web developer at <a src="https://www.thehackingproject.org/">The Hacking Project</a>.
+    Hello, I am currently training to become a web developer at <a src="https://www.thehackingproject.org/" target="_blank">The Hacking Project</a>.
 <br>
     The first 3 months are very back end oriented with Ruby and Ruby On Rails web framework,
 <br>
