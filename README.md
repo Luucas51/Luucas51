@@ -44,5 +44,10 @@ Currently in the process of becoming a web developer
 
 </details>
 
+<p>📍&nbsp;&nbsp;I live in &nbsp;Reims</p>
+    
+    
+
+
 
 
