@@ -14,6 +14,7 @@ Currently in the process of becoming a web developer
 
 <a href="https://www.linkedin.com/in/lucas-oudart-40400a209/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
+## &#x1f4c8; My stats
 
 <br>
 <br>
