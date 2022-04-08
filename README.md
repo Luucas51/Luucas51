@@ -32,7 +32,7 @@ Currently in the process of becoming a web developer
     
     
 <p>
-    Hello, I am currently training to become a web developer at <a src="https://www.thehackingproject.org/" target="_blank">The Hacking Project</a>.
+    Hello, I have just finished a training course to become a web developer at <a src="https://www.thehackingproject.org/" target="_blank">The Hacking Project</a>.
 <br>
     The first 3 months are very back end oriented with Ruby and Ruby On Rails web framework,
 <br>
