@@ -4,7 +4,7 @@
 # Hello world, I'm Lucas <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 <p>📍&nbsp;&nbsp;I live in&nbsp;Reims</p>
 <br>
-FullStack Web Developer | Open To Work
+FullStack Web Developer
 
 ## My Skills
 
